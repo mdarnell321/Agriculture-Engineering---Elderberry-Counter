@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Agr_actual" Database="" Version="10000">
+  <Project Name="Agr_actual" Path="Agr_actual/Agr_actual.project" Active="No"/>
+  <Project Name="agr_parser" Path="agr_parser/agr_parser.project" Active="Yes"/>
+  <Project Name="Agr_shifter" Path="Agr_shifter/Agr_shifter.project" Active="No"/>
+  <Project Name="Agr_cleaner" Path="Agr_cleaner/Agr_cleaner.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Agr_actual" ConfigName="Debug"/>
+      <Project Name="Agr_actual" ConfigName="Debug"/>
+      <Project Name="agr_parser" ConfigName="Debug"/>
+      <Project Name="Agr_shifter" ConfigName="Debug"/>
+      <Project Name="Agr_cleaner" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Agr_actual" ConfigName="Release"/>
+      <Project Name="Agr_actual" ConfigName="Release"/>
+      <Project Name="agr_parser" ConfigName="Release"/>
+      <Project Name="Agr_shifter" ConfigName="Release"/>
+      <Project Name="Agr_cleaner" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
